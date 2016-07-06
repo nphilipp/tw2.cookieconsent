@@ -1,0 +1,3 @@
+[submodule "cookieconsent2"]
+	path = cookieconsent2
+	url = https://github.com/silktide/cookieconsent2.git
