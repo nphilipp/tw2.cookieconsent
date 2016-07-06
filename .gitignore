@@ -1,0 +1,6 @@
+/.eggs/
+/build/
+/tw2.cookieconsent.egg-info/
+/tw2/cookieconsent/static/
+__pycache__/
+
