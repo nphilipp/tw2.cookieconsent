@@ -81,7 +81,7 @@ class CookieConsentWidget(Widget):
         super(CookieConsentWidget, self).prepare()
 
         cfg = {}
-        
+
         for parm in (
                 'message', 'dismiss', 'learnMore', 'link', 'container',
                 'theme', 'path', 'domain', 'expiryDays', 'target'):
