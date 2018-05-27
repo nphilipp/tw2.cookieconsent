@@ -25,7 +25,7 @@ class generate_files_mixin(object):
 
     here = os.path.abspath(os.path.dirname(__file__))
 
-    ccdir = "cookieconsent2"
+    ccdir = "cookieconsent"
     nodemoddir = os.path.join(ccdir, "node_modules")
     gulpbin = os.path.join(here, nodemoddir, ".bin", "gulp")
 
